@@ -1,11 +1,12 @@
 Hola,
-Soy estudiande de Ing. Civil en Informática en la Universidad De Los Lagos(2016-Presente):bowtie:.
+Soy estudiande de Ing. Civil en Informática en la Universidad De Los Lagos (2016-Presente):bowtie:.
 
 ```python
 # yo.py
 
 import datetime 
 import sys
+
 
 class Persona:
     def __init__(self, nombre, apellido, fecha_nacimiento, ciudad, email):
@@ -31,12 +32,14 @@ class Persona:
         for i, x in zip(evpo, vi):
             imprimir += ("\n" + i + x)
         return imprimir  
-            
+        
 
 def main():
-    yo = Persona(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5]) 
+    yo = Persona(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4],
+                 sys.argv[5]) 
     print(yo)
     print("Edad: " + str(yo.edad))
+
 
 if __name__ == "__main__":
     main()
@@ -53,7 +56,11 @@ Edad: 30
 $
 ```
 
-
+<a href="https://github.com/appleboy">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jpnahuelpan&show_icons=true&theme=flag-india&count_private=true" alt="JP's github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpnahuelpan&theme=flag-india&layout=compact" alt="JP's github top languages" />
+</a>
+<br/>
 
 <!---
 jpnahuelpan/jpnahuelpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
