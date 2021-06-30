@@ -19,8 +19,7 @@ class Persona:
     @property    
     def edad(self):
         hoy = datetime.date.today()
-        edad = hoy.year - self._fn.year
-        
+        edad = hoy.year - self._fn.year     
         if hoy < datetime.date(hoy.year, self._fn.month, self._fn.day):
             edad -= 1
         return edad
@@ -55,12 +54,13 @@ eMail: juanpablonahuelpan@gmail.com
 Edad: 30
 $
 ```
-
-<a href="https://github.com/appleboy">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jpnahuelpan&show_icons=true&theme=flag-india&count_private=true" alt="JP's github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpnahuelpan&theme=flag-india&layout=compact" alt="JP's github top languages" />
+# Estadísticas
+<p>
+<a href="https://github.com/jpnahuelpan">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpnahuelpan&show_icons=true&theme=flag-india" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpnahuelpan&theme=flag-india&layout=compact" />
 </a>
-<br/>
+</p>
 
 <!---
 jpnahuelpan/jpnahuelpan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
