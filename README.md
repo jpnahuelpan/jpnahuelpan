@@ -1,9 +1,22 @@
 <p>
-<a href="https://github.com/jpnahuelpan">
- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jpnahuelpan&show_icons=true&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpnahuelpan&theme=flag-india&layout=compact" />
-</a>
+ Hola mi nombre es Juan Pablo Nahuelpán, soy de profesion Ingeniero Civil en Informática egresado de la Universidad de los Lagos el año 2023.
+ Me gusta trabajar con Lenguajes que corren en JVM, pero igual tengo bastante experiencia en Python.
 </p>
+<h7>Acá pueden econtrar ejercicios de distintos lenguajes:</h7>
+<ul>
+    <li><a href="https://github.com/jpnahuelpan/57-Exercises-in-Scala">57-Exercises-in-Scala</a></li>
+    <li><a href="https://github.com/jpnahuelpan/appstreaming1">appstreaming1 (Python y Js)</a></li>
+    <li><a href="https://github.com/jpnahuelpan/appstreaming2">appstreaming2 (Python y Js)</a></li>
+</ul>
+<h7>Pruebas técnicas reales que he hecho para empresas:</h7>
+<ul>
+    <li><a href="https://github.com/jpnahuelpan/tareaPlatanus">Para prácticante en Platanus (Ruby)</a></li>
+    <li><a href="https://github.com/jpnahuelpan/pruebaFrogmi">Para Ingeniero de Software en Frogmi (Ruby)</a></li>
+</ul>
+<h7>Por último, mí trabajo de título o tesis:</h7>
+<ul>
+    <li><a href="https://github.com/jpnahuelpan/tt-pregrado">Código trabajo de título (Python)</a></li>
+</ul>
 
 
 <!---
