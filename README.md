@@ -2,7 +2,7 @@
  Hola mi nombre es Juan Pablo Nahuelpán, soy de profesion Ingeniero Civil en Informática egresado de la Universidad de los Lagos el año 2023.
  Me gusta trabajar con Lenguajes que corren en JVM, pero igual tengo bastante experiencia en Python.
 </p>
-<h7>Acá pueden econtrar ejercicios de distintos lenguajes:</h7>
+<h7>Acá puedes encontrar ejercicios de distintos lenguajes:</h7>
 <ul>
     <li><a href="https://github.com/jpnahuelpan/57-Exercises-in-Scala">57-Exercises-in-Scala</a></li>
     <li><a href="https://github.com/jpnahuelpan/appstreaming1">appstreaming1 (Python y Js)</a></li>
