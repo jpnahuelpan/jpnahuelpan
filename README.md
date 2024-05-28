@@ -12,7 +12,7 @@
 <ul>
     <li><a href="https://github.com/jpnahuelpan/tareaPlatanus">Para prácticante en Platanus (Ruby)</a></li>
     <li><a href="https://github.com/jpnahuelpan/pruebaFrogmi">Para Ingeniero de Software en Frogmi (Ruby)</a></li>
-    <li><a href="https://github.com/jpnahuelpan/desafioBuda">Para Ingeniero de Software en Buda (Ruby)</a></li>
+    <li><a href="https://github.com/jpnahuelpan/desafioBuda">Para Software Engineer en Buda (Ruby)</a></li>
 </ul>
 <h7>Por último, mí trabajo de título o tesis:</h7>
 <ul>
