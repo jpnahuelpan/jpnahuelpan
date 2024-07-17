@@ -10,8 +10,8 @@
 </ul>
 <h7>Pruebas técnicas reales que he hecho para empresas:</h7>
 <ul>
-    <li><a href="https://github.com/jpnahuelpan/pruebaFrogmi">Para Ingeniero de Software en Frogmi (Ruby)</a></li>
     <li><a href="https://github.com/jpnahuelpan/desafioBuda">Para Software Engineer en Buda (Ruby)</a></li>
+    <li><a href="https://github.com/jpnahuelpan/pruebaFrogmi">Para Ingeniero de Software en Frogmi (Ruby)</a></li>
     <li><a href="https://github.com/jpnahuelpan/tareaPlatanus">Para prácticante en Platanus (Ruby)</a></li>
 </ul>
 <h7>Por último, mí trabajo de título o tesis:</h7>
