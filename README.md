@@ -1,6 +1,6 @@
 <p>
- Hola, mi nombre es Juan Pablo Nahuelpán, soy de profesión Ingeniero Civil en Informática egresado de la Universidad de los Lagos el año 2023.
- Me gusta trabajar con Lenguajes que corren en JVM, pero igual tengo bastante experiencia en Python.
+ Hola, mi nombre es Juan Pablo Nahuelpán, soy de profesión Ingeniero Civil en Informática titulado de la Universidad de los Lagos el año 2023.
+ Me gusta trabajar con Lenguajes que corren en JVM en especial Kotlin, pero igual tengo bastante experiencia en Python.
 </p>
 <h7>Acá puedes encontrar ejercicios de distintos lenguajes:</h7>
 <ul>
